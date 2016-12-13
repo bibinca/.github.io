@@ -500,7 +500,12 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-d",
